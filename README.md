@@ -1,2 +1,2 @@
 # pic-bed
-github图床
+图床
